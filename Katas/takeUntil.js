@@ -1,3 +1,5 @@
+// Implement takeUntil which will keep collecting items from a provided array until the callback provided returns a truthy value.
+
 const data1 = [1, 2, 5, 7, 2, -1, 2, 4, 5];
 const takeUntil = (arr,callback) => {
   let newArr = [];
