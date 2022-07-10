@@ -33,6 +33,7 @@ function duplicateCount(str){
   }
   console.log(duplicateCount("aA11b"));
   console.log(duplicateCount("Indivisibilities"));
+  console.log(duplicateCount("Abracadabra"));
 
 // PseudoCode :
 // 1. Created an empty Object so that later on loop the keys to find which has value greater than 1.
