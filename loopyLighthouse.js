@@ -22,5 +22,6 @@ const loopyLighthouse = (range, multiples, words) => {
   }
 };
 loopyLighthouse([15, 90], [2, 5], ["Batty", "Beacon"]);
+loopyLighthouse([12, 80], [3, 6], ["Betty", "Bacon"]);
 
 
